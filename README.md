@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 💫 Sobre:
+🙋‍♂️ Eu sou o Jonathas mas alguns pessoas me chamam de Jhon, Sou natural de Manaus - Amazonas - Brasil 🇧🇷 e pretendo fazer uma curta apresentação nesse pequeno bloco
+> Minha formação é na área de *Ciência da Computação* e sempre fui apaixonado 😍 por tecnologia, desde pequeno olhava linhas de código em diversas linguagens de programação, não entendia absolutamente nada e um dia resolvi estudar e aprender 🥺, hoje posso dizer que continuo sem entender muito bem 🤦‍♂️😂, mas eu não desisto. 💪
+
+
+🔭 Atualmente, estou trabalhando com desenvolvimento Web - Criacao de Paginas usando bibliotecas como reactJS e material-UI <br>
+🌱 Plantando hoje pra colher amanha <br>
+⚡ Bora fazer um projeto Juntos ?
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Jonathas+Borges+Cavalcante;Eu+Sou+Desenvolvedor;Eu+Moro+No+Brasil,+Manaus-Amazonas;Eu+Estudo+Sobre+Desenvolvimento+Web;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
@@ -41,7 +51,7 @@ Here are some ideas to get you started:
  ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
  ![Material](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### Back-end Skill:
+### Back-End Skill:
 
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -71,10 +81,12 @@ Here are some ideas to get you started:
 
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
+
+
+<div align="center">  
+  
 ### Social Media
-
-<div align="left">  
-
+  
   <a href="https://www.linkedin.com/in/jonathascavalcante" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
