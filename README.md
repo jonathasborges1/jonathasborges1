@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 Sobre:
-🙋‍♂️ Eu sou o Jonathas mas alguns pessoas me chamam de Jhon, Sou natural de Manaus - Amazonas - Brasil 🇧🇷 
+🙋‍♂️ Eu sou o Jonathas mas alguns pessoas me chamam de Jhon, Sou natural de Manaus - Amazonas - Brasil 🇧🇷 <br>
 🔭 Atualmente, estou trabalhando com desenvolvimento Web - Criacao de Paginas usando bibliotecas como reactJS e material-UI <br>
 🌱 Plantando hoje pra colher amanha <br>
 ⚡ Bora fazer um projeto Juntos ?
