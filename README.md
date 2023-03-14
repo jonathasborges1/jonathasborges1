@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 Sobre:
-🙋‍♂️ Eu sou o Jonathas mas alguns pessoas me chamam de Jhon, Sou natural de Manaus - Amazonas - Brasil 🇧🇷 e pretendo fazer uma curta apresentação nesse pequeno bloco
-> Minha formação é na área de *Ciência da Computação* e sempre fui apaixonado 😍 por tecnologia, desde pequeno olhava linhas de código em diversas linguagens de programação, não entendia absolutamente nada e um dia resolvi estudar e aprender 🥺, hoje posso dizer que continuo sem entender muito bem 🤦‍♂️😂, mas eu não desisto. 💪
-
-
+🙋‍♂️ Eu sou o Jonathas mas alguns pessoas me chamam de Jhon, Sou natural de Manaus - Amazonas - Brasil 🇧🇷 
 🔭 Atualmente, estou trabalhando com desenvolvimento Web - Criacao de Paginas usando bibliotecas como reactJS e material-UI <br>
 🌱 Plantando hoje pra colher amanha <br>
 ⚡ Bora fazer um projeto Juntos ?
