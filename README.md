@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 🔭 Atualmente, estou trabalhando com desenvolvimento Web - Criacao de Paginas usando bibliotecas como reactJS e material-UI <br>
 ⚡ Bora fazer um projeto Juntos ?
 
-Experiência com linguagens de Frontend: HTML e CSS;.
-Experiência em Javascript;.
-Experiência em frameworks/libs front-end, preferencialmente em ReactJS;.
-Vivência em times ágeis (Scrum, Kanban, etc);.
-Conhecimento em programação OO;.
+Experiência com linguagens de Frontend: HTML e CSS;
+Experiência em Javascript;
+Experiência em frameworks/libs front-end, preferencialmente em ReactJS;
+Vivência em times ágeis (Scrum, Kanban, etc);
+Conhecimento em programação OO;
 Conhecimento de APIs REST;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
