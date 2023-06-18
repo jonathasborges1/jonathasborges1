@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 🔭 Atualmente, estou trabalhando com desenvolvimento Web - Criacao de Paginas usando bibliotecas como reactJS e material-UI <br>
 ⚡ Bora fazer um projeto Juntos ?
 
-- Experiência com linguagens de Frontend: HTML e CSS;
-- Experiência em Javascript;
+- Experiência com linguagens de Frontend: HTML / CSS / Javascript;
 - Experiência em frameworks/libs front-end, preferencialmente em ReactJS;
 - Vivência em times ágeis (Scrum, Kanban, etc);
 - Conhecimento em programação OO;
