@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 ### Project Management: 
 
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trelo-1F76EE?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 
