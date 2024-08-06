@@ -63,7 +63,7 @@ Here are some ideas to get you started:
  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
- ![Vercel](https://img.shields.io/badge/Vercel-fff?style=for-the-badge&logo=vercel&logoColor=black)
+
  
 ### Database (RDS): 
 
@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 
   ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-fff?style=for-the-badge&logo=vercel&logoColor=black)
 
 ### Project Management: 
 
